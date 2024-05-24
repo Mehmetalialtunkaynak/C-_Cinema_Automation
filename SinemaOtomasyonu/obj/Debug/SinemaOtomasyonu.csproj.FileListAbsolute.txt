@@ -1,0 +1,221 @@
+C:\Yazilim2\SinemaOtomasyonu\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe.config
+C:\Yazilim2\SinemaOtomasyonu\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe
+C:\Yazilim2\SinemaOtomasyonu\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.pdb
+C:\Yazilim2\SinemaOtomasyonu\SinemaOtomasyonu\bin\Debug\Guna.UI2.dll
+C:\Yazilim2\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.AssemblyReference.cache
+C:\Yazilim2\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.AnaSayfa.resources
+C:\Yazilim2\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Form1.resources
+C:\Yazilim2\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Properties.Resources.resources
+C:\Yazilim2\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.GenerateResource.cache
+C:\Yazilim2\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Yazilim2\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.CopyComplete
+C:\Yazilim2\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.exe
+C:\Yazilim2\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.pdb
+C:\Yazilim2\SinemaOtomasyonu\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SplashScreen.resources
+C:\Yazilim2\SinemaOtomasyonu - 15.12.2023 - 2\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe.config
+C:\Yazilim2\SinemaOtomasyonu - 15.12.2023 - 2\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe
+C:\Yazilim2\SinemaOtomasyonu - 15.12.2023 - 2\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.pdb
+C:\Yazilim2\SinemaOtomasyonu - 15.12.2023 - 2\SinemaOtomasyonu\bin\Debug\Guna.UI2.dll
+C:\Yazilim2\SinemaOtomasyonu - 15.12.2023 - 2\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.AssemblyReference.cache
+C:\Yazilim2\SinemaOtomasyonu - 15.12.2023 - 2\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.AnaSayfa.resources
+C:\Yazilim2\SinemaOtomasyonu - 15.12.2023 - 2\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Filmler.resources
+C:\Yazilim2\SinemaOtomasyonu - 15.12.2023 - 2\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Form1.resources
+C:\Yazilim2\SinemaOtomasyonu - 15.12.2023 - 2\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Properties.Resources.resources
+C:\Yazilim2\SinemaOtomasyonu - 15.12.2023 - 2\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SifreDegistirme.resources
+C:\Yazilim2\SinemaOtomasyonu - 15.12.2023 - 2\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SplashScreen.resources
+C:\Yazilim2\SinemaOtomasyonu - 15.12.2023 - 2\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Bilet.resources
+C:\Yazilim2\SinemaOtomasyonu - 15.12.2023 - 2\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.GenerateResource.cache
+C:\Yazilim2\SinemaOtomasyonu - 15.12.2023 - 2\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Yazilim2\SinemaOtomasyonu - 15.12.2023 - 2\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.CopyComplete
+C:\Yazilim2\SinemaOtomasyonu - 15.12.2023 - 2\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.exe
+C:\Yazilim2\SinemaOtomasyonu - 15.12.2023 - 2\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.pdb
+C:\Yazilim2\SinemaOtomasyonu - 15.12.2023 - 2\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.AdminSayfa.resources
+C:\Users\ilayda\Desktop\WİNDOWS PROGRAMLAMA\SinemaOtomasyonu - 19.12.2023\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe.config
+C:\Users\ilayda\Desktop\WİNDOWS PROGRAMLAMA\SinemaOtomasyonu - 19.12.2023\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe
+C:\Users\ilayda\Desktop\WİNDOWS PROGRAMLAMA\SinemaOtomasyonu - 19.12.2023\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.pdb
+C:\Users\ilayda\Desktop\WİNDOWS PROGRAMLAMA\SinemaOtomasyonu - 19.12.2023\SinemaOtomasyonu\bin\Debug\Guna.UI2.dll
+C:\Users\ilayda\Desktop\WİNDOWS PROGRAMLAMA\SinemaOtomasyonu - 19.12.2023\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\ilayda\Desktop\WİNDOWS PROGRAMLAMA\SinemaOtomasyonu - 19.12.2023\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilayda\Desktop\WİNDOWS PROGRAMLAMA\SinemaOtomasyonu - 19.12.2023\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.AdminSayfa.resources
+C:\Users\ilayda\Desktop\WİNDOWS PROGRAMLAMA\SinemaOtomasyonu - 19.12.2023\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.AnaSayfa.resources
+C:\Users\ilayda\Desktop\WİNDOWS PROGRAMLAMA\SinemaOtomasyonu - 19.12.2023\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Filmler.resources
+C:\Users\ilayda\Desktop\WİNDOWS PROGRAMLAMA\SinemaOtomasyonu - 19.12.2023\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Fiyatlar.resources
+C:\Users\ilayda\Desktop\WİNDOWS PROGRAMLAMA\SinemaOtomasyonu - 19.12.2023\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Kuponlar.resources
+C:\Users\ilayda\Desktop\WİNDOWS PROGRAMLAMA\SinemaOtomasyonu - 19.12.2023\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Form1.resources
+C:\Users\ilayda\Desktop\WİNDOWS PROGRAMLAMA\SinemaOtomasyonu - 19.12.2023\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.KullaniciPanel.resources
+C:\Users\ilayda\Desktop\WİNDOWS PROGRAMLAMA\SinemaOtomasyonu - 19.12.2023\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Properties.Resources.resources
+C:\Users\ilayda\Desktop\WİNDOWS PROGRAMLAMA\SinemaOtomasyonu - 19.12.2023\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SatisRapor.resources
+C:\Users\ilayda\Desktop\WİNDOWS PROGRAMLAMA\SinemaOtomasyonu - 19.12.2023\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Seanslar.resources
+C:\Users\ilayda\Desktop\WİNDOWS PROGRAMLAMA\SinemaOtomasyonu - 19.12.2023\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SifreDegistirme.resources
+C:\Users\ilayda\Desktop\WİNDOWS PROGRAMLAMA\SinemaOtomasyonu - 19.12.2023\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SinemaKartÜyelikleri.resources
+C:\Users\ilayda\Desktop\WİNDOWS PROGRAMLAMA\SinemaOtomasyonu - 19.12.2023\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SplashScreen.resources
+C:\Users\ilayda\Desktop\WİNDOWS PROGRAMLAMA\SinemaOtomasyonu - 19.12.2023\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletSatisİslemi.resources
+C:\Users\ilayda\Desktop\WİNDOWS PROGRAMLAMA\SinemaOtomasyonu - 19.12.2023\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.GenerateResource.cache
+C:\Users\ilayda\Desktop\WİNDOWS PROGRAMLAMA\SinemaOtomasyonu - 19.12.2023\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\ilayda\Desktop\WİNDOWS PROGRAMLAMA\SinemaOtomasyonu - 19.12.2023\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.CopyComplete
+C:\Users\ilayda\Desktop\WİNDOWS PROGRAMLAMA\SinemaOtomasyonu - 19.12.2023\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.exe
+C:\Users\ilayda\Desktop\WİNDOWS PROGRAMLAMA\SinemaOtomasyonu - 19.12.2023\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.pdb
+C:\Users\ilayda\Desktop\windowsprogramlama\SinemaOtomasyonu - 19.12.2023\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\ilayda\Desktop\windowsprogramlama\SinemaOtomasyonu - 19.12.2023\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilayda\Desktop\windowsprogramlama\SinemaOtomasyonu - 19.12.2023\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.AdminSayfa.resources
+C:\Users\ilayda\Desktop\windowsprogramlama\SinemaOtomasyonu - 19.12.2023\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.AnaSayfa.resources
+C:\Users\ilayda\Desktop\windowsprogramlama\SinemaOtomasyonu - 19.12.2023\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Filmler.resources
+C:\Users\ilayda\Desktop\windowsprogramlama\SinemaOtomasyonu - 19.12.2023\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Fiyatlar.resources
+C:\Users\ilayda\Desktop\windowsprogramlama\SinemaOtomasyonu - 19.12.2023\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Kuponlar.resources
+C:\Users\ilayda\Desktop\windowsprogramlama\SinemaOtomasyonu - 19.12.2023\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Form1.resources
+C:\Users\ilayda\Desktop\windowsprogramlama\SinemaOtomasyonu - 19.12.2023\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.KullaniciPanel.resources
+C:\Users\ilayda\Desktop\windowsprogramlama\SinemaOtomasyonu - 19.12.2023\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Properties.Resources.resources
+C:\Users\ilayda\Desktop\windowsprogramlama\SinemaOtomasyonu - 19.12.2023\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SatisRapor.resources
+C:\Users\ilayda\Desktop\windowsprogramlama\SinemaOtomasyonu - 19.12.2023\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Seanslar.resources
+C:\Users\ilayda\Desktop\windowsprogramlama\SinemaOtomasyonu - 19.12.2023\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SifreDegistirme.resources
+C:\Users\ilayda\Desktop\windowsprogramlama\SinemaOtomasyonu - 19.12.2023\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SinemaKartÜyelikleri.resources
+C:\Users\ilayda\Desktop\windowsprogramlama\SinemaOtomasyonu - 19.12.2023\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SplashScreen.resources
+C:\Users\ilayda\Desktop\windowsprogramlama\SinemaOtomasyonu - 19.12.2023\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletSatisİslemi.resources
+C:\Users\ilayda\Desktop\windowsprogramlama\SinemaOtomasyonu - 19.12.2023\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.GenerateResource.cache
+C:\Users\ilayda\Desktop\windowsprogramlama\SinemaOtomasyonu - 19.12.2023\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\ilayda\Desktop\windowsprogramlama\SinemaOtomasyonu - 19.12.2023\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.exe
+C:\Users\ilayda\Desktop\windowsprogramlama\SinemaOtomasyonu - 19.12.2023\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.pdb
+C:\Users\ilayda\Desktop\windowsprogramlama\SinemaOtomasyonu - 20.12.2023 -2\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe.config
+C:\Users\ilayda\Desktop\windowsprogramlama\SinemaOtomasyonu - 20.12.2023 -2\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe
+C:\Users\ilayda\Desktop\windowsprogramlama\SinemaOtomasyonu - 20.12.2023 -2\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.pdb
+C:\Users\ilayda\Desktop\windowsprogramlama\SinemaOtomasyonu - 20.12.2023 -2\SinemaOtomasyonu\bin\Debug\Guna.UI2.dll
+C:\Users\ilayda\Desktop\windowsprogramlama\SinemaOtomasyonu - 20.12.2023 -2\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\ilayda\Desktop\windowsprogramlama\SinemaOtomasyonu - 20.12.2023 -2\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilayda\Desktop\windowsprogramlama\SinemaOtomasyonu - 20.12.2023 -2\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.AdminSayfa.resources
+C:\Users\ilayda\Desktop\windowsprogramlama\SinemaOtomasyonu - 20.12.2023 -2\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.AnaSayfa.resources
+C:\Users\ilayda\Desktop\windowsprogramlama\SinemaOtomasyonu - 20.12.2023 -2\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Filmler.resources
+C:\Users\ilayda\Desktop\windowsprogramlama\SinemaOtomasyonu - 20.12.2023 -2\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Fiyatlar.resources
+C:\Users\ilayda\Desktop\windowsprogramlama\SinemaOtomasyonu - 20.12.2023 -2\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Kuponlar.resources
+C:\Users\ilayda\Desktop\windowsprogramlama\SinemaOtomasyonu - 20.12.2023 -2\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Form1.resources
+C:\Users\ilayda\Desktop\windowsprogramlama\SinemaOtomasyonu - 20.12.2023 -2\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.KullaniciPanel.resources
+C:\Users\ilayda\Desktop\windowsprogramlama\SinemaOtomasyonu - 20.12.2023 -2\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Properties.Resources.resources
+C:\Users\ilayda\Desktop\windowsprogramlama\SinemaOtomasyonu - 20.12.2023 -2\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SatisRapor.resources
+C:\Users\ilayda\Desktop\windowsprogramlama\SinemaOtomasyonu - 20.12.2023 -2\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Seanslar.resources
+C:\Users\ilayda\Desktop\windowsprogramlama\SinemaOtomasyonu - 20.12.2023 -2\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SifreDegistirme.resources
+C:\Users\ilayda\Desktop\windowsprogramlama\SinemaOtomasyonu - 20.12.2023 -2\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SinemaKartÜyelikleri.resources
+C:\Users\ilayda\Desktop\windowsprogramlama\SinemaOtomasyonu - 20.12.2023 -2\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SplashScreen.resources
+C:\Users\ilayda\Desktop\windowsprogramlama\SinemaOtomasyonu - 20.12.2023 -2\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletSatisİslemi.resources
+C:\Users\ilayda\Desktop\windowsprogramlama\SinemaOtomasyonu - 20.12.2023 -2\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.GenerateResource.cache
+C:\Users\ilayda\Desktop\windowsprogramlama\SinemaOtomasyonu - 20.12.2023 -2\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\ilayda\Desktop\windowsprogramlama\SinemaOtomasyonu - 20.12.2023 -2\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.CopyComplete
+C:\Users\ilayda\Desktop\windowsprogramlama\SinemaOtomasyonu - 20.12.2023 -2\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.exe
+C:\Users\ilayda\Desktop\windowsprogramlama\SinemaOtomasyonu - 20.12.2023 -2\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.pdb
+C:\Yazilim2\windowsprogramlama - 21.12.23 - 18.51\SinemaOtomasyonu - 21.12.2023 -18.50\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe.config
+C:\Yazilim2\windowsprogramlama - 21.12.23 - 18.51\SinemaOtomasyonu - 21.12.2023 -18.50\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe
+C:\Yazilim2\windowsprogramlama - 21.12.23 - 18.51\SinemaOtomasyonu - 21.12.2023 -18.50\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.pdb
+C:\Yazilim2\windowsprogramlama - 21.12.23 - 18.51\SinemaOtomasyonu - 21.12.2023 -18.50\SinemaOtomasyonu\bin\Debug\Guna.UI2.dll
+C:\Yazilim2\windowsprogramlama - 21.12.23 - 18.51\SinemaOtomasyonu - 21.12.2023 -18.50\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.AssemblyReference.cache
+C:\Yazilim2\windowsprogramlama - 21.12.23 - 18.51\SinemaOtomasyonu - 21.12.2023 -18.50\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.AdminSayfa.resources
+C:\Yazilim2\windowsprogramlama - 21.12.23 - 18.51\SinemaOtomasyonu - 21.12.2023 -18.50\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.AnaSayfa.resources
+C:\Yazilim2\windowsprogramlama - 21.12.23 - 18.51\SinemaOtomasyonu - 21.12.2023 -18.50\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Filmler.resources
+C:\Yazilim2\windowsprogramlama - 21.12.23 - 18.51\SinemaOtomasyonu - 21.12.2023 -18.50\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Fiyatlar.resources
+C:\Yazilim2\windowsprogramlama - 21.12.23 - 18.51\SinemaOtomasyonu - 21.12.2023 -18.50\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Kuponlar.resources
+C:\Yazilim2\windowsprogramlama - 21.12.23 - 18.51\SinemaOtomasyonu - 21.12.2023 -18.50\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Form1.resources
+C:\Yazilim2\windowsprogramlama - 21.12.23 - 18.51\SinemaOtomasyonu - 21.12.2023 -18.50\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Kullanıcılar.resources
+C:\Yazilim2\windowsprogramlama - 21.12.23 - 18.51\SinemaOtomasyonu - 21.12.2023 -18.50\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Properties.Resources.resources
+C:\Yazilim2\windowsprogramlama - 21.12.23 - 18.51\SinemaOtomasyonu - 21.12.2023 -18.50\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SatisRapor.resources
+C:\Yazilim2\windowsprogramlama - 21.12.23 - 18.51\SinemaOtomasyonu - 21.12.2023 -18.50\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Seanslar.resources
+C:\Yazilim2\windowsprogramlama - 21.12.23 - 18.51\SinemaOtomasyonu - 21.12.2023 -18.50\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SifreDegistirme.resources
+C:\Yazilim2\windowsprogramlama - 21.12.23 - 18.51\SinemaOtomasyonu - 21.12.2023 -18.50\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SinemaKartÜyelikleri.resources
+C:\Yazilim2\windowsprogramlama - 21.12.23 - 18.51\SinemaOtomasyonu - 21.12.2023 -18.50\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SplashScreen.resources
+C:\Yazilim2\windowsprogramlama - 21.12.23 - 18.51\SinemaOtomasyonu - 21.12.2023 -18.50\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletSatisİslemi.resources
+C:\Yazilim2\windowsprogramlama - 21.12.23 - 18.51\SinemaOtomasyonu - 21.12.2023 -18.50\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.GenerateResource.cache
+C:\Yazilim2\windowsprogramlama - 21.12.23 - 18.51\SinemaOtomasyonu - 21.12.2023 -18.50\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Yazilim2\windowsprogramlama - 21.12.23 - 18.51\SinemaOtomasyonu - 21.12.2023 -18.50\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.CopyComplete
+C:\Yazilim2\windowsprogramlama - 21.12.23 - 18.51\SinemaOtomasyonu - 21.12.2023 -18.50\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.exe
+C:\Yazilim2\windowsprogramlama - 21.12.23 - 18.51\SinemaOtomasyonu - 21.12.2023 -18.50\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.pdb
+C:\Users\ilayda\Desktop\SinemaOtomasyonu - 22.12.2023 -02.00\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe.config
+C:\Users\ilayda\Desktop\SinemaOtomasyonu - 22.12.2023 -02.00\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe
+C:\Users\ilayda\Desktop\SinemaOtomasyonu - 22.12.2023 -02.00\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.pdb
+C:\Users\ilayda\Desktop\SinemaOtomasyonu - 22.12.2023 -02.00\SinemaOtomasyonu\bin\Debug\Guna.UI2.dll
+C:\Users\ilayda\Desktop\SinemaOtomasyonu - 22.12.2023 -02.00\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\ilayda\Desktop\SinemaOtomasyonu - 22.12.2023 -02.00\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilayda\Desktop\SinemaOtomasyonu - 22.12.2023 -02.00\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.AdminSayfa.resources
+C:\Users\ilayda\Desktop\SinemaOtomasyonu - 22.12.2023 -02.00\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.AnaSayfa.resources
+C:\Users\ilayda\Desktop\SinemaOtomasyonu - 22.12.2023 -02.00\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Filmler.resources
+C:\Users\ilayda\Desktop\SinemaOtomasyonu - 22.12.2023 -02.00\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Fiyatlar.resources
+C:\Users\ilayda\Desktop\SinemaOtomasyonu - 22.12.2023 -02.00\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Kuponlar.resources
+C:\Users\ilayda\Desktop\SinemaOtomasyonu - 22.12.2023 -02.00\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Form1.resources
+C:\Users\ilayda\Desktop\SinemaOtomasyonu - 22.12.2023 -02.00\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Kullanıcılar.resources
+C:\Users\ilayda\Desktop\SinemaOtomasyonu - 22.12.2023 -02.00\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Properties.Resources.resources
+C:\Users\ilayda\Desktop\SinemaOtomasyonu - 22.12.2023 -02.00\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SatisRapor.resources
+C:\Users\ilayda\Desktop\SinemaOtomasyonu - 22.12.2023 -02.00\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Seanslar.resources
+C:\Users\ilayda\Desktop\SinemaOtomasyonu - 22.12.2023 -02.00\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SifreDegistirme.resources
+C:\Users\ilayda\Desktop\SinemaOtomasyonu - 22.12.2023 -02.00\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SinemaKartÜyelikleri.resources
+C:\Users\ilayda\Desktop\SinemaOtomasyonu - 22.12.2023 -02.00\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SplashScreen.resources
+C:\Users\ilayda\Desktop\SinemaOtomasyonu - 22.12.2023 -02.00\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletSatisİslemi.resources
+C:\Users\ilayda\Desktop\SinemaOtomasyonu - 22.12.2023 -02.00\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.GenerateResource.cache
+C:\Users\ilayda\Desktop\SinemaOtomasyonu - 22.12.2023 -02.00\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\ilayda\Desktop\SinemaOtomasyonu - 22.12.2023 -02.00\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.CopyComplete
+C:\Users\ilayda\Desktop\SinemaOtomasyonu - 22.12.2023 -02.00\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.exe
+C:\Users\ilayda\Desktop\SinemaOtomasyonu - 22.12.2023 -02.00\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.pdb
+C:\Users\ilayda\Desktop\SinemaOtomasyonu - 22.12.2023 -17.05\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\ilayda\Desktop\SinemaOtomasyonu - 22.12.2023 -17.05\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilayda\Desktop\SinemaOtomasyonu - 22.12.2023 -17.05\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.AdminSayfa.resources
+C:\Users\ilayda\Desktop\SinemaOtomasyonu - 22.12.2023 -17.05\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.AnaSayfa.resources
+C:\Users\ilayda\Desktop\SinemaOtomasyonu - 22.12.2023 -17.05\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Filmler.resources
+C:\Users\ilayda\Desktop\SinemaOtomasyonu - 22.12.2023 -17.05\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Fiyatlar.resources
+C:\Users\ilayda\Desktop\SinemaOtomasyonu - 22.12.2023 -17.05\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Kuponlar.resources
+C:\Users\ilayda\Desktop\SinemaOtomasyonu - 22.12.2023 -17.05\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Form1.resources
+C:\Users\ilayda\Desktop\SinemaOtomasyonu - 22.12.2023 -17.05\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Kullanıcılar.resources
+C:\Users\ilayda\Desktop\SinemaOtomasyonu - 22.12.2023 -17.05\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Properties.Resources.resources
+C:\Users\ilayda\Desktop\SinemaOtomasyonu - 22.12.2023 -17.05\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SatisRapor.resources
+C:\Users\ilayda\Desktop\SinemaOtomasyonu - 22.12.2023 -17.05\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Seanslar.resources
+C:\Users\ilayda\Desktop\SinemaOtomasyonu - 22.12.2023 -17.05\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SifreDegistirme.resources
+C:\Users\ilayda\Desktop\SinemaOtomasyonu - 22.12.2023 -17.05\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SinemaKartÜyelikleri.resources
+C:\Users\ilayda\Desktop\SinemaOtomasyonu - 22.12.2023 -17.05\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SplashScreen.resources
+C:\Users\ilayda\Desktop\SinemaOtomasyonu - 22.12.2023 -17.05\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletSatisİslemi.resources
+C:\Users\ilayda\Desktop\SinemaOtomasyonu - 22.12.2023 -17.05\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.GenerateResource.cache
+C:\Users\ilayda\Desktop\SinemaOtomasyonu - 22.12.2023 -17.05\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\ilayda\Desktop\SinemaOtomasyonu - 22.12.2023 -17.05\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.exe
+C:\Users\ilayda\Desktop\SinemaOtomasyonu - 22.12.2023 -17.05\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.pdb
+C:\Users\muhammed\Desktop\SinemaOtomasyonu - 22.12.2023 -17.05 - 1\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\muhammed\Desktop\SinemaOtomasyonu - 22.12.2023 -17.05 - 1\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.AdminSayfa.resources
+C:\Users\muhammed\Desktop\SinemaOtomasyonu - 22.12.2023 -17.05 - 1\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.AnaSayfa.resources
+C:\Users\muhammed\Desktop\SinemaOtomasyonu - 22.12.2023 -17.05 - 1\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Filmler.resources
+C:\Users\muhammed\Desktop\SinemaOtomasyonu - 22.12.2023 -17.05 - 1\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Fiyatlar.resources
+C:\Users\muhammed\Desktop\SinemaOtomasyonu - 22.12.2023 -17.05 - 1\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Kuponlar.resources
+C:\Users\muhammed\Desktop\SinemaOtomasyonu - 22.12.2023 -17.05 - 1\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Form1.resources
+C:\Users\muhammed\Desktop\SinemaOtomasyonu - 22.12.2023 -17.05 - 1\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Kullanıcılar.resources
+C:\Users\muhammed\Desktop\SinemaOtomasyonu - 22.12.2023 -17.05 - 1\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Properties.Resources.resources
+C:\Users\muhammed\Desktop\SinemaOtomasyonu - 22.12.2023 -17.05 - 1\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SalonOlustur.resources
+C:\Users\muhammed\Desktop\SinemaOtomasyonu - 22.12.2023 -17.05 - 1\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SatisRapor.resources
+C:\Users\muhammed\Desktop\SinemaOtomasyonu - 22.12.2023 -17.05 - 1\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Seanslar.resources
+C:\Users\muhammed\Desktop\SinemaOtomasyonu - 22.12.2023 -17.05 - 1\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SifreDegistirme.resources
+C:\Users\muhammed\Desktop\SinemaOtomasyonu - 22.12.2023 -17.05 - 1\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SinemaKartÜyelikleri.resources
+C:\Users\muhammed\Desktop\SinemaOtomasyonu - 22.12.2023 -17.05 - 1\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SplashScreen.resources
+C:\Users\muhammed\Desktop\SinemaOtomasyonu - 22.12.2023 -17.05 - 1\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletSatisİslemi.resources
+C:\Users\muhammed\Desktop\SinemaOtomasyonu - 22.12.2023 -17.05 - 1\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.GenerateResource.cache
+C:\Users\muhammed\Desktop\SinemaOtomasyonu - 22.12.2023 -17.05 - 1\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\muhammed\Desktop\SinemaOtomasyonu - 22.12.2023 -17.05 - 1\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.exe
+C:\Users\muhammed\Desktop\SinemaOtomasyonu - 22.12.2023 -17.05 - 1\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.pdb
+C:\Users\muhammed\Desktop\SinemaOtomasyonu - 22.12.2023 -17.05 - 1\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.AdminGiris.resources
+C:\Users\muhammed\Desktop\SinemaOtomasyonu - 23.12.2023 -23.21\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\muhammed\Desktop\SinemaOtomasyonu - 23.12.2023 -23.21\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.AdminSayfa.resources
+C:\Users\muhammed\Desktop\SinemaOtomasyonu - 23.12.2023 -23.21\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.AnaSayfa.resources
+C:\Users\muhammed\Desktop\SinemaOtomasyonu - 23.12.2023 -23.21\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Filmler.resources
+C:\Users\muhammed\Desktop\SinemaOtomasyonu - 23.12.2023 -23.21\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Fiyatlar.resources
+C:\Users\muhammed\Desktop\SinemaOtomasyonu - 23.12.2023 -23.21\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Kuponlar.resources
+C:\Users\muhammed\Desktop\SinemaOtomasyonu - 23.12.2023 -23.21\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.AdminGiris.resources
+C:\Users\muhammed\Desktop\SinemaOtomasyonu - 23.12.2023 -23.21\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Kullanıcılar.resources
+C:\Users\muhammed\Desktop\SinemaOtomasyonu - 23.12.2023 -23.21\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Properties.Resources.resources
+C:\Users\muhammed\Desktop\SinemaOtomasyonu - 23.12.2023 -23.21\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SalonOlustur.resources
+C:\Users\muhammed\Desktop\SinemaOtomasyonu - 23.12.2023 -23.21\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SatisRapor.resources
+C:\Users\muhammed\Desktop\SinemaOtomasyonu - 23.12.2023 -23.21\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Seanslar.resources
+C:\Users\muhammed\Desktop\SinemaOtomasyonu - 23.12.2023 -23.21\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SifreDegistirme.resources
+C:\Users\muhammed\Desktop\SinemaOtomasyonu - 23.12.2023 -23.21\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.SinemaKartÜyelikleri.resources
+C:\Users\muhammed\Desktop\SinemaOtomasyonu - 23.12.2023 -23.21\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.BiletSatisİslemi.resources
+C:\Users\muhammed\Desktop\SinemaOtomasyonu - 23.12.2023 -23.21\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.GenerateResource.cache
+C:\Users\muhammed\Desktop\SinemaOtomasyonu - 23.12.2023 -23.21\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\muhammed\Desktop\SinemaOtomasyonu - 23.12.2023 -23.21\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.exe
+C:\Users\muhammed\Desktop\SinemaOtomasyonu - 23.12.2023 -23.21\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.pdb
+C:\Users\muhammed\Desktop\SinemaOtomasyonu - 23.12.2023 -23.21\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe.config
+C:\Users\muhammed\Desktop\SinemaOtomasyonu - 23.12.2023 -23.21\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.exe
+C:\Users\muhammed\Desktop\SinemaOtomasyonu - 23.12.2023 -23.21\SinemaOtomasyonu\bin\Debug\SinemaOtomasyonu.pdb
+C:\Users\muhammed\Desktop\SinemaOtomasyonu - 23.12.2023 -23.21\SinemaOtomasyonu\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\muhammed\Desktop\SinemaOtomasyonu - 23.12.2023 -23.21\SinemaOtomasyonu\bin\Debug\Guna.UI2.dll
+C:\Users\muhammed\Desktop\SinemaOtomasyonu - 23.12.2023 -23.21\SinemaOtomasyonu\bin\Debug\itextsharp.dll
+C:\Users\muhammed\Desktop\SinemaOtomasyonu - 23.12.2023 -23.21\SinemaOtomasyonu\bin\Debug\itextsharp.xml
+C:\Users\muhammed\Desktop\SinemaOtomasyonu - 23.12.2023 -23.21\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.csproj.CopyComplete
+C:\Users\muhammed\Desktop\SinemaOtomasyonu - 23.12.2023 -23.21\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.Hakkımızda.resources
+C:\Users\muhammed\Desktop\SinemaOtomasyonu - 23.12.2023 -23.21\SinemaOtomasyonu\obj\Debug\SinemaOtomasyonu.AnaFilmGösterim.resources
